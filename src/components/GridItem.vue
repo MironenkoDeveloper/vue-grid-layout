@@ -47,11 +47,6 @@
         opacity: 0.2;
         transition-duration: 100ms;
         z-index: 2;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        -ms-user-select: none;
-        -o-user-select: none;
-        user-select: none;
     }
 
     .vue-grid-item > .vue-resizable-handle {
@@ -79,10 +74,6 @@
         background-origin: content-box;
         cursor: sw-resize;
         right: auto;
-    }
-
-    .vue-grid-item.disable-userselect {
-        user-select: none;
     }
 </style>
 <script>
