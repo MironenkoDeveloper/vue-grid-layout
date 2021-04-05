@@ -12,11 +12,6 @@ The default css for the placeholder is:
     opacity: 0.2;
     transition-duration: 100ms;
     z-index: 2;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    -o-user-select: none;
-    user-select: none;
 }  
 ````
   
